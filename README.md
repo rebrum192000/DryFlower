@@ -13,4 +13,4 @@
 
 Ниже представляю превью моего сайта для быстрого просмотра:
 
-<img src="https://i.ibb.co/XZ43yzR/Fire-Shot-Capture-020-Dry-Flower.png" alt="Fire-Shot-Capture-020-Dry-Flower" border="0">
+<a href="https://ibb.co/mCBXvHW"><img src="https://i.ibb.co/xSsfmMT/Fire-Shot-Capture-020-Dry-Flower.png" alt="Fire-Shot-Capture-020-Dry-Flower" border="0"></a>
